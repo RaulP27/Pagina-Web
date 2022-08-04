@@ -152,6 +152,9 @@ body{
     .imagen-footer img{
     width: 150px;
     }
+    .acordion2{
+        background-color: white;
+    }
 }
 @media screen and (min-width:421px) and (max-width: 620px){
     body{
@@ -172,7 +175,10 @@ body{
     .footer{
     width: 100%;
     }
-
+    
+    .acordion2{
+        background-color: white;
+    }
 
 
 }
